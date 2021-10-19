@@ -1,0 +1,13 @@
+body{
+  background-image: url(background.png);
+  background-position-x: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  margin-top: 300px;
+  text-decoration: none;
+  background-color: rgb(20,116,236)
+  
+}
+h3{
+  margin-top: 40px;
+}
